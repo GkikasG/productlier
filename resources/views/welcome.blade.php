@@ -5,9 +5,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="robots" content="noindex, nofollow">
-   
+
  <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>Cloudways Laravel</title>
+    <title>Cloudways Laravel - GG</title>
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -27,7 +27,7 @@
             font-weight: 400;
             font-style: normal;
         }
-        
+
         @font-face {
             font-family: 'proxima_nova';
             src: url('https://litmus.com/fonts/Emails/proximanova-bold-webfont.eot');
@@ -187,7 +187,7 @@
         {
             margin-bottom: 20px;
         }
-        
+
         .lrvl_wlcm_mid_rht_txtBox h2
         {
             color: #0E134F;
@@ -354,7 +354,7 @@
                 background: #fff;
                 border-bottom: 2px solid #2F39BF;
             }
-            
+
             .lrvl_wlcm_mid_lftBox ul li
             {
                 display: inline-block;
@@ -478,7 +478,7 @@
 
     <section class="lrvl_wlcm_signUp_sec">
         <div class="container">
-            <div class="lrvl_wlcm_signUp_mainBox"> 
+            <div class="lrvl_wlcm_signUp_mainBox">
                 <h3>Be a Part of Exciting Discussion <br/>on Cloudways User Group</h3>
                 <a href="https://www.facebook.com/groups/CloudwaysUsers" target="_blank" class="cw_glb_btn">JOIN NOW</a>
             </div>
@@ -528,7 +528,7 @@
                     $('.lrvl_wlcm_mid_lftBox ul li a').eq(i).addClass('active');
                 }
             }
-        });    
+        });
     </script>
 
   </body>
